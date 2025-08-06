@@ -4,8 +4,8 @@ import Boxes from './Boxes'
 const BoxStructure = () => {
     return (
         <div>
-            <div className='md:hidden'>
-                <img src="hero-bg.svg" alt="" />
+            <div className='md:hidden w-full  '>
+                <img className='' src="hero-bg.svg" alt="" />
             </div>
             <div className='flex  '>
                 <div>
